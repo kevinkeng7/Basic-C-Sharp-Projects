@@ -1,0 +1,7 @@
+C:\Users\LEON\Desktop\Basic_C#_Programs\Acme_Account_Systems\Acme_Account_Systems\bin\Debug\Acme_Account_Systems.exe.config
+C:\Users\LEON\Desktop\Basic_C#_Programs\Acme_Account_Systems\Acme_Account_Systems\bin\Debug\Acme_Account_Systems.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\Acme_Account_Systems\Acme_Account_Systems\bin\Debug\Acme_Account_Systems.pdb
+C:\Users\LEON\Desktop\Basic_C#_Programs\Acme_Account_Systems\Acme_Account_Systems\obj\Debug\Acme_Account_Systems.csproj.AssemblyReference.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\Acme_Account_Systems\Acme_Account_Systems\obj\Debug\Acme_Account_Systems.csproj.CoreCompileInputs.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\Acme_Account_Systems\Acme_Account_Systems\obj\Debug\Acme_Account_Systems.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\Acme_Account_Systems\Acme_Account_Systems\obj\Debug\Acme_Account_Systems.pdb
