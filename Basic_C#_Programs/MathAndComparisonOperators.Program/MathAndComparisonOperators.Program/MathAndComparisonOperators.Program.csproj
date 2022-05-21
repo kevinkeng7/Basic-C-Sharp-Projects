@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{179946B0-6546-4374-8372-2C028B8C9AB4}</ProjectGuid>
+    <ProjectGuid>{DD7B0CBE-275A-4CD9-B5C6-4649F6B34259}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>VariablesAndDataTypes</RootNamespace>
-    <AssemblyName>VariablesAndDataTypes</AssemblyName>
+    <RootNamespace>MathAndComparisonOperators.Program</RootNamespace>
+    <AssemblyName>MathAndComparisonOperators.Program</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\DailyReportAssignmentSubmission.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
