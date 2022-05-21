@@ -1,6 +1,5 @@
 ﻿using System;
 
-
 namespace Acme_Account_Systems
 {
     class Program
