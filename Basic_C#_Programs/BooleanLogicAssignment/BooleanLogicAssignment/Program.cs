@@ -14,6 +14,7 @@ namespace BooleanLogicAssignment
             string userAge = Console.ReadLine();
             int ageNum = Convert.ToInt32(userAge);
 
+
             Console.WriteLine("Have you ever had a DUI? Answer true or false.");
             string userDui = Console.ReadLine();
 
@@ -22,9 +23,11 @@ namespace BooleanLogicAssignment
             string ticket = Console.ReadLine();
             int ticketNum = Convert.ToInt32(ticket);
 
+
             bool ageQualify = ageNum > 15;
             bool duiQualify = userDui == "false";
-            bool ticketQualify = ticketNum < 3;
+            bool ticketQualify = ticketNum <= 3;
+
 
             Console.WriteLine("Qualified?");
             bool resultQualify = (ageQualify && duiQualify && ticketQualify);
