@@ -1,0 +1,7 @@
+C:\Users\LEON\Desktop\Basic_C#_Programs\STRINGS_Module 12\STRINGS_Module 12\bin\Debug\STRINGS_Module 12.exe.config
+C:\Users\LEON\Desktop\Basic_C#_Programs\STRINGS_Module 12\STRINGS_Module 12\bin\Debug\STRINGS_Module 12.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\STRINGS_Module 12\STRINGS_Module 12\bin\Debug\STRINGS_Module 12.pdb
+C:\Users\LEON\Desktop\Basic_C#_Programs\STRINGS_Module 12\STRINGS_Module 12\obj\Debug\STRINGS_Module 12.csproj.AssemblyReference.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\STRINGS_Module 12\STRINGS_Module 12\obj\Debug\STRINGS_Module 12.csproj.CoreCompileInputs.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\STRINGS_Module 12\STRINGS_Module 12\obj\Debug\STRINGS_Module 12.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\STRINGS_Module 12\STRINGS_Module 12\obj\Debug\STRINGS_Module 12.pdb
