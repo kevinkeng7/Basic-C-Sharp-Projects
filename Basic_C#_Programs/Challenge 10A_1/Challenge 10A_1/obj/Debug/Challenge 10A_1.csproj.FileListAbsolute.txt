@@ -1,0 +1,7 @@
+C:\Users\LEON\Desktop\Basic_C#_Programs\Challenge 10A_1\Challenge 10A_1\bin\Debug\Challenge 10A_1.exe.config
+C:\Users\LEON\Desktop\Basic_C#_Programs\Challenge 10A_1\Challenge 10A_1\bin\Debug\Challenge 10A_1.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\Challenge 10A_1\Challenge 10A_1\bin\Debug\Challenge 10A_1.pdb
+C:\Users\LEON\Desktop\Basic_C#_Programs\Challenge 10A_1\Challenge 10A_1\obj\Debug\Challenge 10A_1.csproj.AssemblyReference.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\Challenge 10A_1\Challenge 10A_1\obj\Debug\Challenge 10A_1.csproj.CoreCompileInputs.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\Challenge 10A_1\Challenge 10A_1\obj\Debug\Challenge 10A_1.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\Challenge 10A_1\Challenge 10A_1\obj\Debug\Challenge 10A_1.pdb
