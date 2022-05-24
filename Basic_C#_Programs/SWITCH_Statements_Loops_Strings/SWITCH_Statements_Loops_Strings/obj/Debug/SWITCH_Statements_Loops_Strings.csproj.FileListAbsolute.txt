@@ -1,0 +1,7 @@
+C:\Users\LEON\Desktop\Basic_C#_Programs\SWITCH_Statements_Loops_Strings\SWITCH_Statements_Loops_Strings\bin\Debug\SWITCH_Statements_Loops_Strings.exe.config
+C:\Users\LEON\Desktop\Basic_C#_Programs\SWITCH_Statements_Loops_Strings\SWITCH_Statements_Loops_Strings\bin\Debug\SWITCH_Statements_Loops_Strings.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\SWITCH_Statements_Loops_Strings\SWITCH_Statements_Loops_Strings\bin\Debug\SWITCH_Statements_Loops_Strings.pdb
+C:\Users\LEON\Desktop\Basic_C#_Programs\SWITCH_Statements_Loops_Strings\SWITCH_Statements_Loops_Strings\obj\Debug\SWITCH_Statements_Loops_Strings.csproj.AssemblyReference.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\SWITCH_Statements_Loops_Strings\SWITCH_Statements_Loops_Strings\obj\Debug\SWITCH_Statements_Loops_Strings.csproj.CoreCompileInputs.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\SWITCH_Statements_Loops_Strings\SWITCH_Statements_Loops_Strings\obj\Debug\SWITCH_Statements_Loops_Strings.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\SWITCH_Statements_Loops_Strings\SWITCH_Statements_Loops_Strings\obj\Debug\SWITCH_Statements_Loops_Strings.pdb
