@@ -1,0 +1,7 @@
+C:\Users\LEON\Desktop\Basic_C#_Programs\Lists_Arrays_etc\Lists_Arrays_etc\bin\Debug\Lists_Arrays_etc.exe.config
+C:\Users\LEON\Desktop\Basic_C#_Programs\Lists_Arrays_etc\Lists_Arrays_etc\bin\Debug\Lists_Arrays_etc.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\Lists_Arrays_etc\Lists_Arrays_etc\bin\Debug\Lists_Arrays_etc.pdb
+C:\Users\LEON\Desktop\Basic_C#_Programs\Lists_Arrays_etc\Lists_Arrays_etc\obj\Debug\Lists_Arrays_etc.csproj.AssemblyReference.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\Lists_Arrays_etc\Lists_Arrays_etc\obj\Debug\Lists_Arrays_etc.csproj.CoreCompileInputs.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\Lists_Arrays_etc\Lists_Arrays_etc\obj\Debug\Lists_Arrays_etc.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\Lists_Arrays_etc\Lists_Arrays_etc\obj\Debug\Lists_Arrays_etc.pdb
