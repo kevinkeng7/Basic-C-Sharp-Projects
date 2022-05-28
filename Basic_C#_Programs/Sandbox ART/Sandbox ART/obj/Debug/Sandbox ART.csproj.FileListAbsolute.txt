@@ -1,0 +1,7 @@
+C:\Users\LEON\Desktop\Basic_C#_Programs\Sandbox ART\Sandbox ART\obj\Debug\Sandbox ART.csproj.AssemblyReference.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\Sandbox ART\Sandbox ART\obj\Debug\Sandbox ART.csproj.CoreCompileInputs.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\Sandbox ART\Sandbox ART\bin\Debug\Sandbox ART.exe.config
+C:\Users\LEON\Desktop\Basic_C#_Programs\Sandbox ART\Sandbox ART\bin\Debug\Sandbox ART.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\Sandbox ART\Sandbox ART\bin\Debug\Sandbox ART.pdb
+C:\Users\LEON\Desktop\Basic_C#_Programs\Sandbox ART\Sandbox ART\obj\Debug\Sandbox ART.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\Sandbox ART\Sandbox ART\obj\Debug\Sandbox ART.pdb
