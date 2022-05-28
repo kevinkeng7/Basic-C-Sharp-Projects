@@ -1,0 +1,7 @@
+C:\Users\LEON\Desktop\Basic_C#_Programs\Iteration_1\Iteration_1\obj\Debug\Iteration_1.csproj.AssemblyReference.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\Iteration_1\Iteration_1\obj\Debug\Iteration_1.csproj.CoreCompileInputs.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\Iteration_1\Iteration_1\bin\Debug\Iteration_1.exe.config
+C:\Users\LEON\Desktop\Basic_C#_Programs\Iteration_1\Iteration_1\bin\Debug\Iteration_1.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\Iteration_1\Iteration_1\bin\Debug\Iteration_1.pdb
+C:\Users\LEON\Desktop\Basic_C#_Programs\Iteration_1\Iteration_1\obj\Debug\Iteration_1.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\Iteration_1\Iteration_1\obj\Debug\Iteration_1.pdb
