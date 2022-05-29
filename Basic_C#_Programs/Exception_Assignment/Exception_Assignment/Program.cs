@@ -43,6 +43,7 @@ namespace Exception_Assignment
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
+                return;
             }
             finally
             {
