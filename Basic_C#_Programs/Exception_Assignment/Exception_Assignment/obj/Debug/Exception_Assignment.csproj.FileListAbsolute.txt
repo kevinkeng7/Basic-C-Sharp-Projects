@@ -1,0 +1,7 @@
+C:\Users\LEON\Desktop\Basic_C#_Programs\Exception_Assignment\Exception_Assignment\obj\Debug\Exception_Assignment.csproj.AssemblyReference.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\Exception_Assignment\Exception_Assignment\obj\Debug\Exception_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\Exception_Assignment\Exception_Assignment\bin\Debug\Exception_Assignment.exe.config
+C:\Users\LEON\Desktop\Basic_C#_Programs\Exception_Assignment\Exception_Assignment\bin\Debug\Exception_Assignment.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\Exception_Assignment\Exception_Assignment\bin\Debug\Exception_Assignment.pdb
+C:\Users\LEON\Desktop\Basic_C#_Programs\Exception_Assignment\Exception_Assignment\obj\Debug\Exception_Assignment.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\Exception_Assignment\Exception_Assignment\obj\Debug\Exception_Assignment.pdb
