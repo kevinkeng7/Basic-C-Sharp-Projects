@@ -1,0 +1,7 @@
+C:\Users\LEON\Desktop\Basic_C#_Programs\TwentyOne_or_BlackJack\TwentyOne_or_BlackJack\bin\Debug\TwentyOne_or_BlackJack.exe.config
+C:\Users\LEON\Desktop\Basic_C#_Programs\TwentyOne_or_BlackJack\TwentyOne_or_BlackJack\bin\Debug\TwentyOne_or_BlackJack.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\TwentyOne_or_BlackJack\TwentyOne_or_BlackJack\bin\Debug\TwentyOne_or_BlackJack.pdb
+C:\Users\LEON\Desktop\Basic_C#_Programs\TwentyOne_or_BlackJack\TwentyOne_or_BlackJack\obj\Debug\TwentyOne_or_BlackJack.csproj.AssemblyReference.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\TwentyOne_or_BlackJack\TwentyOne_or_BlackJack\obj\Debug\TwentyOne_or_BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\TwentyOne_or_BlackJack\TwentyOne_or_BlackJack\obj\Debug\TwentyOne_or_BlackJack.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\TwentyOne_or_BlackJack\TwentyOne_or_BlackJack\obj\Debug\TwentyOne_or_BlackJack.pdb
