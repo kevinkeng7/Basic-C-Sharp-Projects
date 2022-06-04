@@ -1,0 +1,7 @@
+C:\Users\LEON\Desktop\Basic_C#_Programs\Abstract_Classes_Assignment\Abstract_Classes_Assignment\bin\Debug\Abstract_Classes_Assignment.exe.config
+C:\Users\LEON\Desktop\Basic_C#_Programs\Abstract_Classes_Assignment\Abstract_Classes_Assignment\bin\Debug\Abstract_Classes_Assignment.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\Abstract_Classes_Assignment\Abstract_Classes_Assignment\bin\Debug\Abstract_Classes_Assignment.pdb
+C:\Users\LEON\Desktop\Basic_C#_Programs\Abstract_Classes_Assignment\Abstract_Classes_Assignment\obj\Debug\Abstract_Classes_Assignment.csproj.AssemblyReference.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\Abstract_Classes_Assignment\Abstract_Classes_Assignment\obj\Debug\Abstract_Classes_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\Abstract_Classes_Assignment\Abstract_Classes_Assignment\obj\Debug\Abstract_Classes_Assignment.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\Abstract_Classes_Assignment\Abstract_Classes_Assignment\obj\Debug\Abstract_Classes_Assignment.pdb
