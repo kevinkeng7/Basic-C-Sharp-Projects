@@ -1,0 +1,7 @@
+C:\Users\LEON\Desktop\Basic_C#_Programs\Interfaces_Assignment\Interfaces_Assignment\obj\Debug\Interfaces_Assignment.csproj.AssemblyReference.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\Interfaces_Assignment\Interfaces_Assignment\obj\Debug\Interfaces_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\Interfaces_Assignment\Interfaces_Assignment\bin\Debug\Interfaces_Assignment.exe.config
+C:\Users\LEON\Desktop\Basic_C#_Programs\Interfaces_Assignment\Interfaces_Assignment\bin\Debug\Interfaces_Assignment.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\Interfaces_Assignment\Interfaces_Assignment\bin\Debug\Interfaces_Assignment.pdb
+C:\Users\LEON\Desktop\Basic_C#_Programs\Interfaces_Assignment\Interfaces_Assignment\obj\Debug\Interfaces_Assignment.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\Interfaces_Assignment\Interfaces_Assignment\obj\Debug\Interfaces_Assignment.pdb
