@@ -1,0 +1,7 @@
+C:\Users\LEON\Desktop\Basic_C#_Programs\Generics_Assignment\Generics_Assignment\obj\Debug\Generics_Assignment.csproj.AssemblyReference.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\Generics_Assignment\Generics_Assignment\obj\Debug\Generics_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\Generics_Assignment\Generics_Assignment\bin\Debug\Generics_Assignment.exe.config
+C:\Users\LEON\Desktop\Basic_C#_Programs\Generics_Assignment\Generics_Assignment\bin\Debug\Generics_Assignment.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\Generics_Assignment\Generics_Assignment\bin\Debug\Generics_Assignment.pdb
+C:\Users\LEON\Desktop\Basic_C#_Programs\Generics_Assignment\Generics_Assignment\obj\Debug\Generics_Assignment.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\Generics_Assignment\Generics_Assignment\obj\Debug\Generics_Assignment.pdb
