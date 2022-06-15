@@ -1,0 +1,7 @@
+C:\Users\LEON\Desktop\Basic_C#_Programs\File_IO_Assignment\File_IO_Assignment\bin\Debug\File_IO_Assignment.exe.config
+C:\Users\LEON\Desktop\Basic_C#_Programs\File_IO_Assignment\File_IO_Assignment\bin\Debug\File_IO_Assignment.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\File_IO_Assignment\File_IO_Assignment\bin\Debug\File_IO_Assignment.pdb
+C:\Users\LEON\Desktop\Basic_C#_Programs\File_IO_Assignment\File_IO_Assignment\obj\Debug\File_IO_Assignment.csproj.AssemblyReference.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\File_IO_Assignment\File_IO_Assignment\obj\Debug\File_IO_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\LEON\Desktop\Basic_C#_Programs\File_IO_Assignment\File_IO_Assignment\obj\Debug\File_IO_Assignment.exe
+C:\Users\LEON\Desktop\Basic_C#_Programs\File_IO_Assignment\File_IO_Assignment\obj\Debug\File_IO_Assignment.pdb
