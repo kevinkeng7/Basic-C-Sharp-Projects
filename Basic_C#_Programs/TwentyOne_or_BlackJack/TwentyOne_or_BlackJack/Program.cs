@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace TwentyOne_or_BlackJack
 {
@@ -10,29 +11,60 @@ namespace TwentyOne_or_BlackJack
     {
         static void Main(string[] args)
         {
-            Deck deck = new Deck();
+            Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
+            string playerName = Console.ReadLine();
 
-            List<int> numberList = new List<int>() { 1, 2, 3, 535, 342, 23 };
+            Console.WriteLine("Any how much money did you bring today?");
+            int bank = Convert.ToInt32(Console.ReadLine());
 
-            int sum = numberList.Where(x => x > 20).Sum();
+            Console.WriteLine("Hello, {0}. Would you like to join a game of 21 right now?", playerName);
+            string answer = Console.ReadLine().ToLower();
 
-            Console.WriteLine(sum);
-            
-            Console.ReadLine();
+            if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
+            {
+                Player player = new Player(playerName, bank);
+                Game game = new TwentyOneGame();
+                game += player;
+                player.isActivelyPlaying = true;
+                while (player.isActivelyPlaying && player.Balance > 0)
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("Thank you for playing!");
+            }
 
-            //deck.Shuffle(3);
-
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit);
-            //}
-            //Console.WriteLine(deck.Cards.Count);
-            //Console.ReadLine();
+            Console.WriteLine("Feel free to look around the casino. Bye for now.");
+            Console.Read();
         }
  
 
     }
 }
+//DateTime dateTime = new DateTime(1995, 5, 23, 8, 32, 45);
+
+
+//string text = "Here is some text."; //logging text in file
+//File.WriteAllText(@"C:\Users\LEON\Logs\log.txt", text);
+
+//string text = File.ReadAllText(@"C:\Users\LEON\Logs\log.txt");
+
+//deck.Shuffle(3);
+
+//foreach (Card card in deck.Cards)
+//{
+//    Console.WriteLine(card.Face + " of " + card.Suit);
+//}
+//Console.WriteLine(deck.Cards.Count);
+//Console.ReadLine();
+
+//Deck deck = new Deck(); // lambda expressions
+//List<int> numberList = new List<int>() { 1, 2, 3, 535, 342, 23 };
+//int sum = numberList.Where(x => x > 20).Sum(); // lambda expressions
+//Console.WriteLine(sum);
+//Console.ReadLine();
+
+
 //Deck deck = new Deck(); //Lambda expressions
 //List<int> numberList = new List<int>() { 1, 2, 3, 535, 342, 23 }; //Lambda expressions
 //int sum = numberList.Where(x => x > 20).Sum(); // creates a new list where the items are > 20 and then sum that list
