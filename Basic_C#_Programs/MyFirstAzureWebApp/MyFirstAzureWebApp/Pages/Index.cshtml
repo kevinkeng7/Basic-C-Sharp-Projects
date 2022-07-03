@@ -1,0 +1,23 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <div id="current_date">
+        </p>
+        <script>
+            date = new Date();
+            year = date.getFullYear();
+            month = date.getMonth() + 1;
+            day = date.getDate();
+            document.getElementById("current_date").innerHTML = month + "/" + day + "/" + year;
+        </script>
+    </div>
+
+<!-- IMPORTANT-->
+<!-- couldn't get azure working, needed 2 factor for the student@learncodinganywhere account, which i do not have access to'-->
